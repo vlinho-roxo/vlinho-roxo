@@ -1,16 +1,31 @@
-## Hi there 👋
+<p align="center">
+  <img src="img/vlinho-roxo-banner.PNG" alt="Banner" width="100%">
+</p>
 
-<!--
-**vlinho-roxo/vlinho-roxo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">vlinho-roxo's GitHub</h1>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> _Brazilian Beginner Programmer — Campinas Technical College Unicamp (COTUCA) Student_
+
+- 📖 Still studying...
+- ⭐ Highlight: Backend
+- 📆 Since February 2025
+
+---
+
+<h2>Knowledge</h2>
+
+<img height="50" width="50" alt="Python" src="img/vlinho-roxo-python.svg">
+<img height="50" width="50" alt="Java" src="img/vlinho-roxo-java.svg">
+<img height="50" width="50" alt="C#" src="img/vlinho-roxo-csharp.svg">
+<img height="50" width="50" alt="HTML" src="img/vlinho-roxo-html.svg">
+<img height="50" width="50" alt="CSS" src="img/vlinho-roxo-css.svg">
+<img height="50" width="50" alt="JavaScript" src="img/vlinho-roxo-javascript.svg">
+<img height="50" width="50" alt="MySQL" src="img/vlinho-roxo-mysql.svg">
+
+<h2>Tools</h2>
+
+<img height="50" width="50" alt="Visual Studio Code" src="img/vlinho-roxo-vscode.svg">
+<img height="50" width="50" alt="Visual Studio" src="img/vlinho-roxo-visualstudio.svg">
+<img height="50" width="50" alt="GitHub" src="img/vlinho-roxo-github.svg">
+<img height="50" width="50" alt="Discord" src="img/vlinho-roxo-discord.svg">
