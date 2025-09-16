@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/vlinho-roxo-banner.PNG" alt="Banner" width="100%">
+  <img src="img/vlinho-roxo-banner.png" alt="Banner" width="100%">
 </p>
 
 <h1 align="center">vlinho-roxo's GitHub</h1>
