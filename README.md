@@ -5,13 +5,13 @@
 <h1 align="center">vlinho-roxo's GitHub</h1>
 
 <p align="center">
-  <em>Brazilian beginner developer — Student at <a href="https://cotuca.unicamp.br">Technical College of Campinas</a></em>
+  <em>Brazilian beginner edgy developer — Student at <a href="https://cotuca.unicamp.br">Technical College of Campinas</a></em>
 </p>
 
 <p align="center">
-  📚 Still learning<br>
-  💡 Main focus: <strong>Backend Development</strong> <br>
-  🗓️ Active since <strong>February 2025</strong>
+  📚 Still a newbie (I don't know SHIT) 😭<br>
+  💡 Highlight: <strong>Backend Development</strong><br>
+  🗓️ Studying since <strong>February 2025</strong>
 </p>
 
 ---
@@ -30,7 +30,6 @@
   <img title="MongoDB" src="https://skillicons.dev/icons?i=mongo"/>
   <img title="Git" src="https://skillicons.dev/icons?i=git"/>
   <img title=".NET" src="https://skillicons.dev/icons?i=dotnet"/>
-
 </p>
 
 <p align="center">
