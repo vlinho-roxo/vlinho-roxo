@@ -5,7 +5,7 @@
 <h1 align="center">vlinho-roxo's GitHub</h1>
 
 <p align="center">
-  <em>Brazilian beginner edgy developer — Student at <a href="https://cotuca.unicamp.br">Technical College of Campinas</a></em>
+  <em>Brazilian beginner û̵͖̱͛͘ş̮̜ͥ͗́ē̼͉̔͝͞l̴̮̰̽͐́e̷̢̟̰ͭͫs̢̧̟̻̓̚s̨͕̫ͤ͑́ developer — Student at <a href="https://cotuca.unicamp.br">Technical College of Campinas</a></em>
 </p>
 
 <p align="center">
@@ -72,3 +72,7 @@
 <p align="center">
   💬 <b>Discord:</b> @vlinho
 </p>
+
+<br>
+
+<p align="center">Н̸̜̱̤̪͂ͯ̾̊͘͜͝е̶̷̮̥̫̭͂̄̾̈̀͡ ̧̻̜͖͔ͨ̂̐ͫ͘͢͡т̶̩̙̹͙͋ͯͫ̽́̕͝р́ͭ̍̅͏̵̻̮̘̖͘͘аͤͫͦ͌͏̯̦̝̙́̕͡х̢̨̺̹̰̭͗̍̾̍́̕а̛̛̋ͬ͗ͤ͏̷̦̞͚͚т̇̈́̋͊͜͢͏̯̺̰̯͞ь̶̷̴̫͓̪̋͂̒͗̕ͅ</p>
