@@ -1,3 +1,3 @@
-## I'm not employable yet 👁👅
+## I'm doing a Pix Request 🤑
 
-I'm currently learning data structures, cross-platform programming, mobile programming, software engineering, device control and network technology at Technical College of Campinas.
+![Red Angry Birds](https://media1.tenor.com/m/LT4sAMyJX9UAAAAd/red-angry-birds.gif)
